@@ -1,7 +1,7 @@
 # nginx_lab_ubuntu
 
 ## Description:
-Downloading the content of this repository gives you possibility to create your own Ubuntu AMI with nginx Installed on in using Packer tool.
+Downloading the content of this repository gives you possibility to create your own AMI with nginx Installed on Ubuntu using Packer tool.
 
 ## Requirements:
 * You need packer tool installed on your machine.
